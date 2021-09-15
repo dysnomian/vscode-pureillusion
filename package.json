@@ -1,0 +1,21 @@
+{
+    "name": "vscode-pureillusion",
+    "displayName": "vscode-pureillusion",
+    "description": "a light and yuri-flavored vim color scheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pure Illusion",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pure Illusion-color-theme.json"
+            }
+        ]
+    }
+}
